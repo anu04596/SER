@@ -20,7 +20,7 @@ Surprise
 
 **📁 Dataset**
 TESS Dataset: Contains 2800+ audio files of actors reading sentences in 7 different emotional tones.
-Link: TESS Dataset on Kaggle
+
 
 🧪 Tech Stack
 * Tool/Library:	Purpose
