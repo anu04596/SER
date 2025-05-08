@@ -45,7 +45,7 @@ Link: TESS Dataset on Kaggle
 
 3. Training:
 * Trained on labeled emotion audio samples
-* Accuracy achieved: [insert your accuracy here]
+* Accuracy achieved: 0.9929
 
 4. Prediction:
 * User records or uploads audio
